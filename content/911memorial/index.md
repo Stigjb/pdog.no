@@ -7,7 +7,12 @@ main = { parent = "Diverse" }
 
 {{< covid >}}
 
-{{< 911bilde >}}
+{{< figure
+  src="911.jpg"
+  link="911.jpg"
+  alt="Bildet viser World Trade Center"
+  caption="_For mer informasjon om bildet, se nederst._"
+>}}
 
 {{% ingress %}}
 
