@@ -1,16 +1,27 @@
 +++
 title = "M/S Fjordkongen er nå Korea King"
+linktitle="MS Fjordkongen"
 lastmod = 2020-12-26T22:00:00
+aliases = [
+    "fjordkongen",
+]
+[menu]
+main = { parent = "Alt annet" }
 +++
+
+<!-- markdownlint-disable MD002 MD034 -->
 
 {{% ingress %}}
 
 Her kan du lese om Thor-Rune Hansens besøk til Korea for å møte en gammel
 kjenning: M/S Fjordkongen. Etter bruk i Troms mellom Harstad og Tromsø, ble
 skipet solgt til et sørkoreansk rederi og heter nå Korea King. Hansen skrev om
-turen til Nordlys sommeren 2015.
+turen til Nordlys sommeren 2015. Her ser du en faksimilie av siden, samt noen
+ekstra bilder.
 
 {{% /ingress %}}
+
+## Faksimilie av avisutklippet
 
 {{< img
     class="img-fluid"
@@ -18,7 +29,17 @@ turen til Nordlys sommeren 2015.
     alt=`En faksimile av Nordlys.`
     >}}
 
-Les mer:
+## Ekstra bilder
+
+{{< karusell-koreaking >}}
+
+{{< lisens
+  type="Bildene"
+  lisenslink="https://en.wikipedia.org/wiki/Public_domain"
+  lisensnavn="Public Domain"
+  >}}
+
+## Les mer
 
 * [Se filen som PDF](pdf.pdf)
 * Følg [KOREA KING på MarineTraffic][mt].
